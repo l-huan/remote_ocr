@@ -1,0 +1,6 @@
+math
+numpy
+requests
+Pillow
+opencv-python
+imghdr
